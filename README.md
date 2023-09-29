@@ -17,27 +17,27 @@ This team name is subject to change when and if the collaborator suggests a new 
 *Team Member 1*
 # EMMANUEL OPADELE
 **<u>About:</u>**
-I come from the west part of africa, Nigeria. <br> I am a christian. My favorite colour is Red.
+I come from the west part of africa, Nigeria. <br> I am a christian.<br> My favorite colour is Red.
 
-**<u>Hobbies:</u>**
-**1.** Gaming 
-**2.** Movies
-**3.** Watching Tech,Food,Cars,Bike videos
-**4.** Gym 
+**<u>Hobbies:</u>** <br>
+**1.** Gaming <br>
+**2.** Movies <br>
+**3.** Watching Tech,Food,Cars,Bike videos <br>
+**4.** Gym <br>
 **5.** Eating Good Foods
 
-**<u>Favorite Movies:</u>**
-**1.** Red 1&2
-**2.** After The Sunset 
-**3.** Brooklyn Nine-Nine
-**4.** Scorpion
-**5.** Fast And Furious
+**<u>Favorite Movies:</u>** <br>
+**1.** Red 1&2 <br>
+**2.** After The Sunset <br>
+**3.** Brooklyn Nine-Nine <br>
+**4.** Scorpion <br>
+**5.** Fast And Furious <br>
 
-**<u>Opinion About Fanshawe/Program:</u>**
-**1.** I love the red theme 
-**2.** so glad we got a bus card 
-**3.** The program (IDP3), love it. 
-**4.** It's a new experience 
+**<u>Opinion About Fanshawe/Program:</u>** <br>
+**1.** I love the red theme <br>
+**2.** so glad we got a bus card  <br>
+**3.** The program (IDP3), love it. <br>
+**4.** It's a new experience <br>
 **5.** I wonder how classes will be like during winter
 
 [My Favorite Website ](http://www.youtube.com/)
@@ -52,8 +52,8 @@ This image code below will break for the obvious reasons... this is just a templ
 
 
 
-![a red theme gaming setup](images/gamesetup.jpg)
-![a lemon chicken meal ](images/lemonchicken.jpg)
+![a red theme gaming setup](images/gamesetup.jpg) <br>
+![a lemon chicken meal ](images/lemonchicken.jpg) <br>
 ![a neon red mustang](images/neonred.jpg)
 
 
@@ -65,24 +65,24 @@ This image code below will break for the obvious reasons... this is just a templ
 Hello! I'm Amari Buck, and I'd like to share a bit about myself. This repository serves as a glimpse into my background, interests, and experiences. Feel free to explore and get to know me better.
 
 
-**<u>Hobbies:</u>**
-**1.** Drawing
-**2.** Writing Music 
-**3.** Playing Games 
-**4.** Watching Anime
+**<u>Hobbies:</u>** <br>
+**1.** Drawing <br>
+**2.** Writing Music  <br>
+**3.** Playing Games <br>
+**4.** Watching Anime <br>
 **5.** Dancing
 
-**<u>Favorite Movies:</u>**
-**1.** Bleach
-**2.** My Hero
-**3.** Black Clover
-**4.** Dragon Ball 
+**<u>Favorite Movies:</u>** <br>
+**1.** Bleach <br>
+**2.** My Hero <br>
+**3.** Black Clover <br>
+**4.** Dragon Ball <br>
 **5.** Demon slayer
 
-**<u>Opinion About Fanshawe/Program:</u>**
-**1.** Modern Facilities 
-**2.** Programs
-**3.** Industry Connections 
+**<u>Opinion About Fanshawe/Program:</u>** <br>
+**1.** Modern Facilities <br>
+**2.** Programs <br>
+**3.** Industry Connections  <br>
 
 
 [My favorite Anime website](https://ww.kiss-anime.uk/home)
@@ -97,8 +97,8 @@ This image code below will break for the obvious reasons... this is just a templ
 
 
 
-![a 1000px X 1000px of image showing Mclaren](images/mclaren.jpg)
-![a 1000px X 1000px of image showing stewpeas](images/stewpeas.jpg)
+![a 1000px X 1000px of image showing Mclaren](images/mclaren.jpg) <br>
+![a 1000px X 1000px of image showing stewpeas](images/stewpeas.jpg) <br>
 ![a 1000px X 1000px of image showing God Of War3](images/gow.jpg)
 
 ---------------------------------------------
