@@ -19,11 +19,11 @@ This team name is subject to change when and if the collaborator suggests a new 
 **<u>About:</u>**
 I come from the west part of africa, Nigeria. <br> I am a christian. My favorite colour is Red.
 
-**<u>Hobbies:</u>**
-**1.** Gaming 
-**2.** Movies
-**3.** Watching Tech,Food,Cars,Bike videos
-**4.** Gym 
+**<u>Hobbies:</u>** <br>
+**1.** Gaming <br>
+**2.** Movies <br>
+**3.** Watching Tech,Food,Cars,Bike videos <br>
+**4.** Gym <br>
 **5.** Eating Good Foods
 
 **<u>Favorite Movies:</u>**
