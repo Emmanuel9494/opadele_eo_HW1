@@ -60,30 +60,32 @@ This image code below will break for the obvious reasons... this is just a templ
 -------------------------------------------
 
 *Team Member 2*
-# MEMBER NAME
+# Amari Buck
 **<u>About:</u>**
-text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
+Hello! I'm Amari Buck, and I'd like to share a bit about myself. This repository serves as a glimpse into my background, interests, and experiences. Feel free to explore and get to know me better.
+
 
 **<u>Hobbies:</u>**
-**1.** text text text text 
-**2.** text text text text 
-**3.** text text text text 
-**4.** text text text text 
-**5.** text text text text 
+**1.** Drawing
+**2.** Writing Music 
+**3.** Playing Games 
+**4.** Watching Anime
+**5.** Dancing
 
 **<u>Favorite Movies:</u>**
-**1.** text text text text 
-**2.** text text text text 
-**3.** text text text text 
-**4.** text text text text 
-**5.** text text text text
+**1.** Bleach
+**2.** My Hero
+**3.** Black Clover
+**4.** Dragon Ball 
+**5.** Demon slayer
 
 **<u>Opinion About Fanshawe/Program:</u>**
-**1.** text text text text 
-**2.** text text text text 
-**3.** text text text text 
-**4.** text text text text 
-**5.** text text text text
+**1.** Modern Facilities 
+**2.** Programs
+**3.** Industry Connections 
+
+
+[My favorite Anime website](https://ww.kiss-anime.uk/home)
 
 <!--
 ![a 1000px X 1000px of image showing whatever](img/images-path.file-extension)
@@ -95,9 +97,9 @@ This image code below will break for the obvious reasons... this is just a templ
 
 
 
-![a 1000px X 1000px of image showing whatever](img/images-path.file-extension)
-![a 1000px X 1000px of image showing whatever ](img/images-path.file-extension)
-![a 1000px X 1000px of image showing whatever](img/images-path.file-extension)
+![a 1000px X 1000px of image showing Mclaren](images/mclaren.jpg)
+![a 1000px X 1000px of image showing stewpeas](images/stewpeas.jpg)
+![a 1000px X 1000px of image showing God Of War3](images/gow.jpg)
 
 ---------------------------------------------
-&copy; <!--Team Name--> Repo-Collab 2023.
+&copy; Repo-Collab 2023.
