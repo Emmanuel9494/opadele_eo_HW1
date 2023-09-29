@@ -48,10 +48,53 @@ This image code below will break for the obvious reasons... this is just a templ
 --->
 
 
------------------------------------------------
 
 ![a 1000px X 1000px of image showing whatever](img/images-path.file-extension)
 ![a 1000px X 1000px of image showing whatever ](img/images-path.file-extension)
 ![a 1000px X 1000px of image showing whatever](img/images-path.file-extension)
 
 
+-------------------------------------------
+
+Team Member 2
+# MEMBER NAME
+**<u>About:</u>**
+text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
+
+**<u>Hobbies:</u>**
+**1.** text text text text 
+**2.** text text text text 
+**3.** text text text text 
+**4.** text text text text 
+**5.** text text text text 
+
+**<u>Favorite Movies:</u>**
+**1.** text text text text 
+**2.** text text text text 
+**3.** text text text text 
+**4.** text text text text 
+**5.** text text text text
+
+**<u>Opinion About Fanshawe/Program:</u>**
+**1.** text text text text 
+**2.** text text text text 
+**3.** text text text text 
+**4.** text text text text 
+**5.** text text text text
+
+<!--
+![a 1000px X 1000px of image showing whatever](img/images-path.file-extension)
+![a 1000px X 1000px of image showing whatever ](img/images-path.file-extension)
+![a 1000px X 1000px of image showing whatever](img/images-path.file-extension).
+
+This image code below will break for the obvious reasons... this is just a template.
+--->
+
+
+
+![a 1000px X 1000px of image showing whatever](img/images-path.file-extension)
+![a 1000px X 1000px of image showing whatever ](img/images-path.file-extension)
+![a 1000px X 1000px of image showing whatever](img/images-path.file-extension)
+
+---------------------------------------------
+&copy; <!--Team Name--> Repo-Collab 2023.
